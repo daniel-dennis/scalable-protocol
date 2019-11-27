@@ -210,8 +210,6 @@ def main():
         procs.append(p)
         p.start()
 
-    # device(75, 2, 1, 0.1, 'ecg')
-
 
 if __name__ == '__main__':
     main()
